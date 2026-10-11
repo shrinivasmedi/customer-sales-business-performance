@@ -195,15 +195,29 @@ The script generates cleaned data, KPI reports, category analysis, customer segm
 
 ## Business Recommendations
 
-Based on the observed sales distribution:
+The analysis identifies several opportunities for further investigation:
 
-1. Investigate the products and subcategories contributing most to Technology sales.
-2. Examine purchasing patterns across Consumer, Corporate, and Home Office customers.
-3. Investigate the sales gap between the West and South regions.
-4. Examine monthly sales patterns to identify potential seasonal trends.
-5. Use interactive dashboard filters to support more focused business analysis.
+1. **Product Strategy:** Technology accounts for 36.59% of total sales. Analyze its subcategories and individual products to understand which contribute most to sales.
 
-These are recommendations for further investigation, not conclusions about the causes of the observed results.
+2. **Customer Segmentation:** Consumer customers generate 50.76% of total sales. Compare purchasing patterns across customer segments to better understand their contributions.
+
+3. **Regional Performance:** The West region generates the highest sales, while the South generates the lowest. Investigate product mix, order patterns, and customer activity across these regions.
+
+4. **Sales Trend Analysis:** Use the monthly sales trend to investigate changes over time and identify potential seasonal patterns.
+
+5. **Interactive Reporting:** Use the Power BI dashboard's Year, Region, and Category slicers to investigate sales performance across different business dimensions.
+
+These recommendations identify areas for further analysis. The available data does not establish the causes of the observed differences.
+
+## Business Value
+
+This project demonstrates how raw transactional data can be converted into structured business reporting through:
+
+- KPI calculation and sales performance measurement.
+- Customer segment and regional comparisons.
+- Product category performance analysis.
+- Data quality assessment.
+- Interactive reporting for business stakeholders.
 
 ## Limitations
 
