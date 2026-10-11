@@ -1,3 +1,6 @@
+![Customer Sales & Business Performance Dashboard](dashboard_preview.png)
+
+---
 # Customer Sales & Business Performance Analytics
 
 An end-to-end data analytics project using Python and Power BI to analyze retail sales performance, customer segments, product categories, regional sales, and monthly trends.
